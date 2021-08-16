@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abigailgv&label=Profile%20views&color=0e75b6&style=flat" alt="abigailgv" /> </p>
 
-- 🔭 I’m currently working on [the development of changemaker day](https://www.facebook.com/changemakerday/)
+- 🔭 I’m currently working on [the development of the web page for changemaker day](https://www.facebook.com/changemakerday/)
 
-- 🌱 I’m currently learning **Programming language C and VulkanSDK**
+- 🌱 I’m currently learning **Programming language C, Go and VulkanSDK**
 
 - 👯 I’m looking to collaborate **with creative people who have effective communication**
 
