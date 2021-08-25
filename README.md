@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [the development of the web page for changemaker day](https://www.facebook.com/changemakerday/)
 
-- 🌱 I’m currently learning **Programming language C, Go and VulkanSDK**
+- 🌱 I’m currently learning **Programming language C, Scheme, Go and VulkanSDK**
 
 - 👯 I’m looking to collaborate **with creative people who have effective communication**
 
