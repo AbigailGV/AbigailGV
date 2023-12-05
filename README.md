@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abigailgv&label=Profile%20views&color=0e75b6&style=flat" alt="abigailgv" /> </p>
 
-- 🔭 I’m currently working on a startup proyect
+- 🔭 I’m currently working on Travelport
 
-- 🌱 I’m currently learning **Programming language Go**
+- 🌱 I’m currently learning **Programming language TypeScript**
 
 - 👯 I’m looking to collaborate **with creative people who have effective communication**
 
