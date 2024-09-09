@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Travelport
 
-- 🌱 I’m currently learning **Programming language TypeScript**
+- 🌱 I’m currently learning **Javascript, Typescript, Node.js and React.js**
 
 - 👯 I’m looking to collaborate **with creative people who have effective communication**
 
